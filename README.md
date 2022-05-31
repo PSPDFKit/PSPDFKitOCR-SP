@@ -16,6 +16,8 @@ Once you signed a commercial license, register your app bundle identifier at [cu
 To get started with PSPDFKitOCR we suggest reading the [Integrating PSPDFKit](https://pspdfkit.com/guides/ios/current/getting-started/integrating-pspdfkit) page located
 at the [PSPDFKit Guides](https://pspdfkit.com/guides/ios/current/).
 
+See [System Compatibility for iOS](https://pspdfkit.com/guides/ios/announcements/version-support/) for more information on supported operating systems.
+
 ## Support
 
 For questions or to report issues, open a ticket on our [support platform](https://pspdfkit.com/support/request).
