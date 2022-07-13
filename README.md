@@ -1,5 +1,5 @@
-Convert scanned documents to searchable text
-============================================
+Swift Package for PSPDFKitOCR
+ =============================
 
 Convert scanned PDF into machine readable documents.
 
