@@ -1,4 +1,4 @@
-// swift-tools-version:5.6
+// swift-tools-version:5.7
 
 import PackageDescription
 
@@ -16,7 +16,7 @@ let package = Package(
     targets: [
         .binaryTarget(
             name: "PSPDFKitOCR",
-            url: "https://customers.pspdfkit.com/ocr/xcframework/12.0.0.zip",
-            checksum: "381a24cfa551b6be0ee8bcb2bfd6a591a8be1227a08febc7d6f4216ad6fb577f"),
+            url: "https://customers.pspdfkit.com/ocr/xcframework/12.0.1.zip",
+            checksum: "f0497c0e2d3ce76a0e6edcdcadf7e9a21f8205f759c82af6d6408adb5101e55b"),
     ]
 )
