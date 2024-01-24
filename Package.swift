@@ -6,7 +6,8 @@ let package = Package(
     name: "PSPDFKitOCR",
     platforms: [
         .iOS(.v15),
-        .macCatalyst(.v15)
+        .macCatalyst(.v15),
+        .visionOS(.v1)
     ],
     products: [
         .library(
