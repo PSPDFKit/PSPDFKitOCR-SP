@@ -3,7 +3,7 @@
 import PackageDescription
 
 let package = Package(
-    name: "PSPDFKitOCR",
+    name: "Nutrient OCR",
     platforms: [
         .iOS(.v15),
         .macCatalyst(.v15),
