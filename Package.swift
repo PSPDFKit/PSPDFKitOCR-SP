@@ -17,7 +17,7 @@ let package = Package(
     targets: [
         .binaryTarget(
             name: "PSPDFKitOCR",
-            url: "https://customers.pspdfkit.com/ocr/xcframework/14.4.0.zip",
-            checksum: "54998f7ef84139af0a3946dd8be91c7c30b0f351175f8d0ced55efc105598428"),
+            url: "https://customers.pspdfkit.com/ocr/xcframework/14.5.0.zip",
+            checksum: "072daea587e2faa220c8408478f21374c4d4790bda2de62b7a05e2b639ae4722"),
     ]
 )
