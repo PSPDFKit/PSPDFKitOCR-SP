@@ -17,7 +17,7 @@ let package = Package(
     targets: [
         .binaryTarget(
             name: "PSPDFKitOCR",
-            url: "https://my.nutrient.io/ocr/xcframework/27.1.0.zip",
-            checksum: "f7c1103eab5fab93afa52b52be76832b32e9307972f512a03fb597113bfb70cd"),
+            url: "https://my.nutrient.io/ocr/xcframework/27.2.0.zip",
+            checksum: "f813028fbcbbdc38e83e766b0d8f366fee55592d562fce956da6189611687e8a"),
     ]
 )
